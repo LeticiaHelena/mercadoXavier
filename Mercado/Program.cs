@@ -11,3 +11,24 @@ Console.WriteLine("(5) Estoque");
 Console.WriteLine("Opcao escolhida: ");
 opcaoMenu = int.Parse(Console.ReadLine());
 
+if (opcaoMenu == 1)
+{
+    
+}else if (opcaoMenu == 2)
+{
+    
+}else if(opcaoMenu == 3)
+{
+    
+}else if(opcaoMenu == 4)
+{
+    
+}else if(opcaoMenu == 5)
+{
+
+}
+else
+{
+    Console.WriteLine("Opcao invalida!");
+}
+
